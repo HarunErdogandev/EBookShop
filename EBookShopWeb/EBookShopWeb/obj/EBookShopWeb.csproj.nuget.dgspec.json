@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\İf(contains(nope))\\Source\\Repos\\EBookShopWeb\\EBookShopWeb\\EBookShopWeb.csproj": {}
+    "C:\\Users\\harun\\Source\\Repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\EBookShopWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\İf(contains(nope))\\Source\\Repos\\EBookShopWeb\\EBookShopWeb\\EBookShopWeb.csproj": {
+    "C:\\Users\\harun\\Source\\Repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\EBookShopWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\İf(contains(nope))\\Source\\Repos\\EBookShopWeb\\EBookShopWeb\\EBookShopWeb.csproj",
+        "projectUniqueName": "C:\\Users\\harun\\Source\\Repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\EBookShopWeb.csproj",
         "projectName": "EBookShopWeb",
-        "projectPath": "C:\\Users\\İf(contains(nope))\\Source\\Repos\\EBookShopWeb\\EBookShopWeb\\EBookShopWeb.csproj",
-        "packagesPath": "C:\\Users\\İf(contains(nope))\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\İf(contains(nope))\\Source\\Repos\\EBookShopWeb\\EBookShopWeb\\obj\\",
+        "projectPath": "C:\\Users\\harun\\Source\\Repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\EBookShopWeb.csproj",
+        "packagesPath": "C:\\Users\\harun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harun\\Source\\Repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\İf(contains(nope))\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
