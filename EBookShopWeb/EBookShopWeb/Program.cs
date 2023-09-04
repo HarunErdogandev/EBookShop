@@ -1,4 +1,7 @@
-using EBookShopWeb.Data;
+
+using DataAccess.Repository;
+using DataAccess.Repository.IRepository;
+using EBookShopWeb.DataAccess;
 using Microsoft.EntityFrameworkCore;
 
 namespace EBookShopWeb
@@ -15,6 +18,8 @@ namespace EBookShopWeb
                 options=>options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
+
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
             var app = builder.Build();
 

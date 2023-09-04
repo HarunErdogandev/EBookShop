@@ -1,4 +1,5 @@
-﻿using EBookShopWeb.Models;
+﻿using EBookShopWeb.Controllers;
+using EBookShopWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

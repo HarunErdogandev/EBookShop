@@ -1,4 +1,7 @@
-﻿using EBookShopWeb.Data;
+﻿
+
+using DataAccess.Repository.IRepository;
+using EBookShopWeb.DataAccess;
 using EBookShopWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,15 +9,15 @@ namespace EBookShopWeb.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly ApplicationDbContext _dbcontext;
-        public CategoryController(ApplicationDbContext dbcontext)
+        private readonly ICategoryRepository _categoryRepo;
+        public CategoryController(ICategoryRepository db)
         {
-            _dbcontext = dbcontext;
+            _categoryRepo = db;
         }
         
         public IActionResult Index()
         {
-            var objCategoryList= _dbcontext.Categories.ToList();
+            var objCategoryList = _categoryRepo.GetAll();
             return View(objCategoryList);
         }
 
@@ -31,8 +34,8 @@ namespace EBookShopWeb.Controllers
             }
             if(ModelState.IsValid)
             {
-                _dbcontext.Categories.Add(category);
-                _dbcontext.SaveChanges();
+                _categoryRepo.Add(category);
+                _categoryRepo.Save();
                 return RedirectToAction("Index");
             }
             return View();
@@ -43,7 +46,7 @@ namespace EBookShopWeb.Controllers
             {
                 return NotFound();
             }
-            var category = _dbcontext.Categories.Find(id);
+            var category = _categoryRepo.Get(x=>x.Id == id);
             if (category is null)
             {
                 return NotFound();
@@ -59,8 +62,8 @@ namespace EBookShopWeb.Controllers
             }
             if (ModelState.IsValid)
             {
-                _dbcontext.Categories.Update(category);
-                _dbcontext.SaveChanges();
+                _categoryRepo.Update(category);
+                _categoryRepo.Save();
                 return RedirectToAction("Index");
             }
             return View();
@@ -69,11 +72,11 @@ namespace EBookShopWeb.Controllers
         [ActionName("Delete")]
         public IActionResult DeletePost(int id)
         {
-            var category = _dbcontext.Categories.Find(id);
+            var category = _categoryRepo.Get(x => x.Id == id);
             if (ModelState.IsValid)
             {
-                _dbcontext.Categories.Remove(category);
-                _dbcontext.SaveChanges();
+                _categoryRepo.Remove(category);
+                _categoryRepo.Save();
                 return RedirectToAction("Index");
             }
             return View();
