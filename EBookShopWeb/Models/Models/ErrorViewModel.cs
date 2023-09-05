@@ -4,7 +4,26 @@ namespace EBookShopWeb.Models
     {
         public string? RequestId { get; set; }
 
-        public string ErrorMessage => "Hata Aldýn bebek";
+        public string ErrorMessage => "Default message";
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+
+        public string Password { get; set; }
+
+
+
+        void UserForRegister(string password,string name)
+        {
+            string[] characters = { "a", "S", "@", "-" };
+
+            
+
+             
+        }
+
+
+
+
+
+
     }
 }

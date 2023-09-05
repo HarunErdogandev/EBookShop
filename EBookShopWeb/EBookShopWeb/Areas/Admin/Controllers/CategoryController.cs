@@ -5,19 +5,20 @@ using EBookShopWeb.DataAccess;
 using EBookShopWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace EBookShopWeb.Controllers
+namespace EBookShopWeb.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CategoryController : Controller
     {
-        private readonly ICategoryRepository _categoryRepo;
-        public CategoryController(ICategoryRepository db)
+        private readonly IUnitOfWork _unitOfWork;
+        public CategoryController(IUnitOfWork unitOfWork)
         {
-            _categoryRepo = db;
+            _unitOfWork = unitOfWork;
         }
-        
+
         public IActionResult Index()
         {
-            var objCategoryList = _categoryRepo.GetAll();
+            var objCategoryList = _unitOfWork.Category.GetAll();
             return View(objCategoryList);
         }
 
@@ -32,21 +33,22 @@ namespace EBookShopWeb.Controllers
             {
                 ModelState.AddModelError("name", "Aynı değerde olamaz");
             }
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
-                _categoryRepo.Add(category);
-                _categoryRepo.Save();
+                _unitOfWork.Category.Add(category);
+                _unitOfWork.Save();
+                TempData["success"] = "Kategori eklendi";
                 return RedirectToAction("Index");
             }
             return View();
         }
         public IActionResult Edit(int id)
         {
-            if (id==0 || id==null)
+            if (id == 0 || id == null)
             {
                 return NotFound();
             }
-            var category = _categoryRepo.Get(x=>x.Id == id);
+            var category = _unitOfWork.Category.Get(x => x.Id == id);
             if (category is null)
             {
                 return NotFound();
@@ -62,8 +64,8 @@ namespace EBookShopWeb.Controllers
             }
             if (ModelState.IsValid)
             {
-                _categoryRepo.Update(category);
-                _categoryRepo.Save();
+                _unitOfWork.Category.Update(category);
+                _unitOfWork.Save();
                 return RedirectToAction("Index");
             }
             return View();
@@ -72,11 +74,11 @@ namespace EBookShopWeb.Controllers
         [ActionName("Delete")]
         public IActionResult DeletePost(int id)
         {
-            var category = _categoryRepo.Get(x => x.Id == id);
+            var category = _unitOfWork.Category.Get(x => x.Id == id);
             if (ModelState.IsValid)
             {
-                _categoryRepo.Remove(category);
-                _categoryRepo.Save();
+                _unitOfWork.Category.Remove(category);
+                _unitOfWork.Save();
                 return RedirectToAction("Index");
             }
             return View();
