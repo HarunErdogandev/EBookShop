@@ -11,14 +11,7 @@ namespace EBookShopWeb.Models
 
 
 
-        void UserForRegister(string password,string name)
-        {
-            string[] characters = { "a", "S", "@", "-" };
-
-            
-
-             
-        }
+        
 
 
 
