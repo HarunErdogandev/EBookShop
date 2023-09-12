@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\Models\\Models.csproj": {}
+    "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\Models\\Models.csproj": {
+    "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\İf(contains(nope))\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\Models\\obj\\",
+        "projectPath": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\harun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\İf(contains(nope))\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

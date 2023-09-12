@@ -1,279 +1,303 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EBookShopWeb.bundle.scp.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EBookShopWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\EBookShopWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\2bf69eb1-8691-42ee-8243-faaaeb263d0f.jpg",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\2bf69eb1-8691-42ee-8243-faaaeb263d0f.jpg",
       "PackagePath": "staticwebassets\\images\\product\\2bf69eb1-8691-42ee-8243-faaaeb263d0f.jpg"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\33a15766-b8ab-4bbf-8fc7-08b402c833a4.jpg",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\33a15766-b8ab-4bbf-8fc7-08b402c833a4.jpg",
       "PackagePath": "staticwebassets\\images\\product\\33a15766-b8ab-4bbf-8fc7-08b402c833a4.jpg"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\41ceabc1-6c49-45cf-816e-7adb8e7df5ec.jpg",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\34179fd0-2b4b-4fe9-bbab-deb41dc3818c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\34179fd0-2b4b-4fe9-bbab-deb41dc3818c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\41ceabc1-6c49-45cf-816e-7adb8e7df5ec.jpg",
       "PackagePath": "staticwebassets\\images\\product\\41ceabc1-6c49-45cf-816e-7adb8e7df5ec.jpg"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\4373b1c9-efe7-4d43-9b17-90d54671e65e.jpg",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\4373b1c9-efe7-4d43-9b17-90d54671e65e.jpg",
       "PackagePath": "staticwebassets\\images\\product\\4373b1c9-efe7-4d43-9b17-90d54671e65e.jpg"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\552f534a-4abd-4f51-bf14-913d4d744783.jpg",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\552f534a-4abd-4f51-bf14-913d4d744783.jpg",
       "PackagePath": "staticwebassets\\images\\product\\552f534a-4abd-4f51-bf14-913d4d744783.jpg"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\7bd84be0-837a-4b50-b05c-427b40506fc5.jpg",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\66cbd1a2-5396-4f80-ba77-e0c67b49bd1d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\66cbd1a2-5396-4f80-ba77-e0c67b49bd1d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\7bd84be0-837a-4b50-b05c-427b40506fc5.jpg",
       "PackagePath": "staticwebassets\\images\\product\\7bd84be0-837a-4b50-b05c-427b40506fc5.jpg"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\eca41a09-c9da-474f-bc1b-e1f9563eaddf.jpg",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\dba7317c-2280-4918-9916-d58f0a13aaba.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\dba7317c-2280-4918-9916-d58f0a13aaba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\e2f4905e-8ac4-41e4-9774-e6598babadbc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e2f4905e-8ac4-41e4-9774-e6598babadbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\e922ff47-c804-416e-b3a9-fdc99d9ab5fd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e922ff47-c804-416e-b3a9-fdc99d9ab5fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\eca41a09-c9da-474f-bc1b-e1f9563eaddf.jpg",
       "PackagePath": "staticwebassets\\images\\product\\eca41a09-c9da-474f-bc1b-e1f9563eaddf.jpg"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\js\\product.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\images\\product\\fbb2917c-6f10-4bc8-8d16-7b179c1cfd89.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fbb2917c-6f10-4bc8-8d16-7b179c1cfd89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\İf(contains(nope))\\Documents\\GitHub\\EBookShop\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\harun\\source\\repos\\EBookShop\\EBookShopWeb\\EBookShopWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
